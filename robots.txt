@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://hyricocu.github.io/sitemap.html.gz
+Sitemap: https://hyricocu.github.io/app/sitemap.html.gz
+Sitemap: https://hyricocu.github.io/assets/sitemap.html.gz
+Sitemap: https://hyricocu.github.io/css/sitemap.html.gz
+Sitemap: https://hyricocu.github.io/includes/sitemap.html.gz
+Sitemap: https://hyricocu.github.io/item/sitemap.html.gz
+Sitemap: https://hyricocu.github.io/src/sitemap.html.gz
